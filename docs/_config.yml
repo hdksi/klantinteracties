@@ -62,8 +62,8 @@ github: VNG-Realisatie/klantinteracties
 
 theme: jekyll-theme-time-machine
 
-remote_theme: VNG-Realisatie/jekyll-theme-vng-realisatie
+remote_theme: hdksi/jekyll-theme-vng-realisatie
 
-project_name: API-standaarden voor Klantinteracties
+project_name: Standaard voor Klantinteracties
 
 standard_family: nvt
