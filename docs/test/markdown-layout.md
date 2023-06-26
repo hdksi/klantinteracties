@@ -1,3 +1,9 @@
+---
+layout: page-with-side-nav
+title: Markdown-elementen test
+date: 26-06-2023
+---
+
 # Headers
 
 ```
