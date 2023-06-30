@@ -1,5 +1,5 @@
 baseurl: "/klantinteracties"
-apiname: "API-standaarden voor Klantinteracties"
+apiname: "Standaard voor Klantinteracties"
 url: "http://localhost:4000"
 # nav is t.b.v. generatie side-navigation menu.
 # Een 'title' zonder path of url genereert slechts een kopje.
