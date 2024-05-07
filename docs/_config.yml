@@ -64,7 +64,7 @@ github: hdksi/klantinteracties
 
 #theme: jekyll-theme-time-machine
 
-remote_theme: hdksi/jekyll-theme-vng-realisatie
+remote_theme: https://github.com/hdksi/jekyll-theme-vng-realisatie
 
 project_name: Standaard voor Klantinteracties
 
